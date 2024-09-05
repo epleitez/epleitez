@@ -1,17 +1,17 @@
 Hi, I’m @epleitez, a computer science student at UMBC! 👋 
 
-💻 Looking for opportunities in Software Engineering or Web Development
-🌱 I’m currently learning MySQL and database management
-⚡ Fun fact: I enjoy reading and making coffee ☕️
+- 💻 Looking for opportunities in Software Engineering or Web Development
+- 🌱 I’m currently learning MySQL and database management
+- ⚡ Fun fact: I enjoy reading and making coffee ☕️
 
 🛠️ Programming Languages:
 - General Purpose: C++, Java, Python
 - Web Development: HTML, CSS, JavaScript, SQL
 - Scripting: Bash, Perl
 
-📫 How to Reach Me
-LinkedIn: Emely Pleitez
-Email: emii.pleitez@gmail.com
+📫 How to Reach Me:
+- LinkedIn: Emely Pleitez
+- Email: emii.pleitez@gmail.com
 
 
 <!---
