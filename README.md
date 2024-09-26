@@ -6,7 +6,7 @@ Hi, I’m @epleitez, a computer science student at UMBC! 👋
 
 🛠️ Programming Languages:
 - General Purpose: C++, Java, Python
-- Web Development: HTML, CSS, JavaScript, SQL
+- Web Development: HTML, CSS, JavaScript, Node.js, React.js, mySQL
 - Scripting: Bash, Perl
 
 📫 How to Reach Me:
