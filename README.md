@@ -5,7 +5,7 @@ Hi, I’m @epleitez👋
 
 🛠️ Programming Languages:
 - General Purpose: C++, Java, Python
-- Web Development: HTML, CSS, JavaScript, Node.js, React.js, SQL
+- Web Development: HTML, CSS, JavaScript, Typescript, Node.js, React.js, SQL
 
 📫 How to Reach Me:
 - LinkedIn: Emely Pleitez
