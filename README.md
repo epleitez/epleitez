@@ -1,17 +1,19 @@
-Hi, I’m @epleitez👋 
-- 🌱 I’m currently learning front-end web development
-- ⚡ Fun fact: I enjoy reading and making coffee ☕️
+👋 Hi, I'm Emely Pleitez
+- Computer Science Graduate from UMBC  
+- Software Engineer @ Belay Technologies
+    
+🛠 Skills
 
-🛠️ Programming Languages:
-- General Purpose: C++, Java, Python
-- Web Development: HTML, CSS, JavaScript, Typescript, Node.js, React.js, SQL
+- **Languages:** C++, Java, Python, JavaScript
+- **Web:** HTML, CSS, React.js, Node.js, GraphQL, MySQL
+- **Tools:** Git, VS Code
 
-📫 How to Reach Me:
-- LinkedIn: Emely Pleitez
+🌟 Fun Facts
+- I love reading and making coffee ☕  
+- I'm always looking for ways to grow and help others in tech
+-   
+📫 Connect with Me
+- GitHub: [github.com/epleitez](https://github.com/epleitez)
 - Email: emii.pleitez@gmail.com
+- LinkedIn: [linkedin.com/in/emely-pleitez](https://linkedin.com/in/emely-pleitez)
 
-
-<!---
-epleitez/epleitez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
