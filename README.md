@@ -1,14 +1,14 @@
 Hi, I’m @epleitez👋 
-🌱 I’m currently learning front-end web development
-⚡ Fun fact: I enjoy reading and making coffee ☕️
+- 🌱 I’m currently learning front-end web development
+- ⚡ Fun fact: I enjoy reading and making coffee ☕️
 
 🛠️ Programming Languages:
-General Purpose: C++, Java, Python
-Web Development: HTML, CSS, JavaScript, Typescript, Node.js, React.js, SQL
+- General Purpose: C++, Java, Python
+- Web Development: HTML, CSS, JavaScript, Typescript, Node.js, React.js, SQL
 
 📫 How to Reach Me:
-LinkedIn: Emely Pleitez
-Email: emii.pleitez@gmail.com
+- LinkedIn: Emely Pleitez
+- Email: emii.pleitez@gmail.com
 
 
 <!---
