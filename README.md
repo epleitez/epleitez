@@ -1,12 +1,13 @@
 👋 Hi, I'm Emely Pleitez
-- Computer Science Graduate from UMBC  
-- Software Engineer @ Belay Technologies
+- Software Developer @ Belay Technologies
+- Building modern web applications with React, Next.js, TypeScript, and GraphQL
+- Passionate about creating intuitive user experiences and continuously improving my skills
     
 🛠 Skills
-
-- **Languages:** C++, Java, Python, JavaScript
-- **Web:** HTML, CSS, React.js, Node.js, GraphQL, MySQL
-- **Tools:** Git, VS Code
+- **Languages:** TypeScript, JavaScript, C++, Java, Python
+- **Frontend:** React, Next.js, HTML, CSS, Material UI, GraphQL, Apollo Client
+- **Backend:** Node.js
+- **Tools:** Git, VS Code, Windows, npm, Vitest
 
 🌟 Fun Facts
 - I love reading and making coffee ☕  
